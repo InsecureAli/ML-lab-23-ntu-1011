@@ -5,6 +5,8 @@
 **National Textile University, Faisalabad**  
 *BS Computer Science — 7th Semester*
 
+**Ali Hassan** | **Roll No:** 23-NTU-CS-1011
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
@@ -45,25 +47,3 @@ To explore or run these weekly notebooks locally on your machine, follow these s
 ```bash
 git clone [https://github.com/your-username/ML-Labs-7th-Semester.git](https://github.com/your-username/ML-Labs-7th-Semester.git)
 cd ML-Labs-7th-Semester
-2. Set Up a Virtual Environment (Optional but Recommended)
-Bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-3. Install Dependencies
-Install the required libraries to run the notebooks:
-
-Bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-4. Launch Jupyter Notebook
-Bash
-jupyter notebook
-Note: You can also upload any of the .ipynb files directly to Google Colab for execution in the cloud without needing a local environment setup.
-
-👨‍💻 Author
-Ali Hassan
-
-Roll No: 23-NTU-CS-1011
-
-BS Computer Science
-
-National Textile University, Faisalabad
