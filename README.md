@@ -45,5 +45,6 @@ To explore or run these weekly notebooks locally on your machine, follow these s
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/ML-Labs-7th-Semester.git](https://github.com/your-username/ML-Labs-7th-Semester.git)
-cd ML-Labs-7th-Semester
+git clone [https://github.com/your-username/ML-lab-23-ntu-1011.git](https://github.com/your-username/ML-lab-23-ntu-1011.git)
+cd ML-lab-23-ntu-1011
+
